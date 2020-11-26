@@ -17,8 +17,9 @@ ingredients:
 - 1 cup of luke warm water (30 seconds in a microwave)
 
 directions:
-- Add all the ingredients to your bread maker in exactly the same order
-- We use the amazing [Welbilt Bread Machine](https://www.amazon.com/Welbilt-Original-Bread-Machine-Glass/dp/B00L4TAG50) which we scored on the used market, but any other bread machine will do
+- Add all the ingredients to your bread maker in exactly the same order. We use the amazing [Welbilt Bread Machine](https://www.amazon.com/Welbilt-Original-Bread-Machine-Glass/dp/B00L4TAG50) which we scored on the used market, but any other bread machine will do.
+- Use the white bread setting and press start. In four hours you will have soft, warm and delicious bread.
+- Cool to room temperature before cutting into slices
 ---
 
 Great activity for kids to help with making bread since there is no heat involved

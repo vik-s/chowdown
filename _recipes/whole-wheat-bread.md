@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Whole Wheat Bread"
-image: banana-bread.jpg
+image: whole-wheat-bread.jpg
 imagecredit: https://flic.kr/p/7HZmzn
 tags: breakfast, baking
 
